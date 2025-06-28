@@ -1,0 +1,65 @@
+*{
+    margin: 0   ;
+    padding: 0;
+}
+
+body, html{
+    height: 100%;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-right: 10px;
+    background-color: white;
+    height: 50px;
+}
+
+#add :hover{
+    cursor: pointer;
+}
+
+.fa-pen:hover, .fa-trash:hover{
+    cursor: pointer;
+}
+
+#count{
+    color: rgb(255, 0, 0);
+    font-size: large;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+.card{
+    height: 500px;
+    width: 50%;
+    margin-top: 7%;
+    justify-self: center;
+    background-color: white;
+    border: 3px solid black;
+    border-bottom: 2px solid black;
+    overflow-y: auto;
+}
+
+.group{
+    display: flex;
+    justify-content: space-between;
+    padding: 22px;
+    height: 25px;
+}
+
+.content{
+    display: inline-block;
+}
+
+.icons{
+    display: inline-block;;
+}
