@@ -1,5 +1,5 @@
-const mainUrl = 'http://192.168.165.244:1000/';
-const baseUrl = 'http://192.168.165.244:1000/tasks';
+const mainUrl = 'http://192.168.167.244:1000/';
+const baseUrl = 'http://192.168.167.244:1000/tasks';
 
 export async function defaultRoute() {
     try{
