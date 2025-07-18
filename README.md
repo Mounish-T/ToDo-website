@@ -14,7 +14,7 @@ A simple ToDo List application that lets you:
 
 * See task count
 
-Output: https://mounish-t.github.io/ToDo-application/
+Output: https://mounish-t.github.io/ToDo-website/
 
 How to Use
 ----------
